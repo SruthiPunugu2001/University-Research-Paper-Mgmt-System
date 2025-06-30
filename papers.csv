@@ -1,0 +1,166 @@
+PaperID,Title,Abstract,SubmissionDate,ResearcherID
+1000,Dynamic Backtracking,"Because of their occasional need to return to shallow points in a search
+tree, existing backtracking methods can sometimes erase meaningful progress
+toward solving a search problem. In this paper, we ",1993-08-01,1
+1001,"A Market-Oriented Programming Environment and its Application to
+  Distributed Multicommodity Flow P","Market price systems constitute a well-understood class of mechanisms that
+under certain conditions provide effective decentralization of decision making
+with minimal communication overhead. In a mark",1993-08-01,2
+1002,An Empirical Analysis of Search in GSAT,"We describe an extensive study of search in GSAT, an approximation procedure
+for propositional satisfiability. GSAT performs greedy hill-climbing on the
+number of satisfied clauses in a truth assignme",1993-09-01,3
+1003,The Difficulties of Learning Logic Programs with Cut,"As real logic programmers normally use cut (!), an effective learning
+procedure for logic programs should be able to deal with it. Because the cut
+predicate has only a procedural meaning, clauses cont",1993-11-01,4
+1004,Software Agents: Completing Patterns and Constructing User Interfaces,"To support the goal of allowing users to record and retrieve information,
+this paper describes an interactive note-taking system for pen-based computers
+with two distinctive features. First, it active",1993-11-01,5
+1005,Decidable Reasoning in Terminological Knowledge Representation Systems,"Terminological knowledge representation systems (TKRSs) are tools for
+designing and using knowledge bases that make use of terminological languages
+(or concept languages). We analyze from a theoretica",1993-12-01,6
+1006,Teleo-Reactive Programs for Agent Control,"A formalism is presented for computing and organizing actions for autonomous
+agents in dynamic environments. We introduce the notion of teleo-reactive (T-R)
+programs whose execution entails the constr",1994-01-01,7
+1007,"Learning the Past Tense of English Verbs: The Symbolic Pattern
+  Associator vs. Connectionist Models","Learning the past tense of English verbs - a seemingly minor aspect of
+language acquisition - has generated heated debates since 1986, and has become
+a landmark task for testing the adequacy of cognit",1994-02-01,8
+1008,"Substructure Discovery Using Minimum Description Length and Background
+  Knowledge","The ability to identify interesting and repetitive substructures is an
+essential component to discovering knowledge in structural data. We describe a
+new version of our SUBDUE substructure discovery s",1994-02-01,9
+1009,Bias-Driven Revision of Logical Domain Theories,"The theory revision problem is the problem of how best to go about revising a
+deficient domain theory using information contained in examples that expose
+inaccuracies. In this paper we present our app",1994-02-01,10
+1010,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induct","We report on a series of experiments in which all decision trees consistent
+with the training data are constructed. These experiments were run to gain an
+understanding of the properties of the set of ",1994-03-01,11
+1011,"A Semantics and Complete Algorithm for Subsumption in the CLASSIC
+  Description Logic","This paper analyzes the correctness of the subsumption algorithm used in
+CLASSIC, a description logic-based knowledge representation system that is
+being used in practical applications. In order to de",1994-06-01,12
+1012,Applying GSAT to Non-Clausal Formulas,"In this paper we describe how to modify GSAT so that it can be applied to
+non-clausal formulas. The idea is to use a particular ``score'' function which
+gives the number of clauses of the CNF conversi",1994-06-01,13
+1013,Random Worlds and Maximum Entropy,"Given a knowledge base KB containing first-order and statistical facts, we
+consider a principled method, called the random-worlds method, for computing a
+degree of belief that some formula Phi holds g",1994-08-01,14
+1014,"Pattern Matching and Discourse Processing in Information Extraction from
+  Japanese Text","Information extraction is the task of automatically picking up information of
+interest from an unconstrained text. Information of interest is usually
+extracted in two steps. First, sentence level proc",1994-08-01,15
+1015,A System for Induction of Oblique Decision Trees,"This article describes a new system for induction of oblique decision trees.
+This system, OC1, combines deterministic hill-climbing with two forms of
+randomization to find a good oblique split (in the",1994-08-01,16
+1016,On Planning while Learning,"This paper introduces a framework for Planning while Learning where an agent
+is given a goal to achieve in an environment whose behavior is only partially
+known to the agent. We discuss the tractabili",1994-09-01,17
+1017,Wrap-Up: a Trainable Discourse Module for Information Extraction,"The vast amounts of on-line text now available have led to renewed interest
+in information extraction (IE) systems that analyze unrestricted text,
+producing a structured representation of selected inf",1994-12-01,18
+1018,Operations for Learning with Graphical Models,"This paper is a multidisciplinary review of empirical, statistical learning
+from a graphical model perspective. Well-known examples of graphical models
+include Bayesian networks, directed graphs repre",1994-12-01,19
+1019,Total-Order and Partial-Order Planning: A Comparative Analysis,"For many years, the intuitions underlying partial-order planning were largely
+taken for granted. Only in the past few years has there been renewed interest
+in the fundamental principles underlying thi",1994-12-01,20
+1020,Solving Multiclass Learning Problems via Error-Correcting Output Codes,"Multiclass learning problems involve finding a definition for an unknown
+function f(x) whose range is a discrete set containing k &gt 2 values (i.e., k
+``classes''). The definition is acquired by stud",1995-01-01,21
+1021,A Domain-Independent Algorithm for Plan Adaptation,"The paradigms of transformational planning, case-based planning, and plan
+debugging all involve a process known as plan adaptation - modifying or
+repairing an old plan so it solves a new problem. In t",1995-01-01,22
+1022,"Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement L","Temporal difference (TD) methods constitute a class of methods for learning
+predictions in multi-step prediction problems, parameterized by a recency
+factor lambda. Currently the most important applic",1995-01-01,23
+1023,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Al","This paper introduces ICET, a new algorithm for cost-sensitive
+classification. ICET uses a genetic algorithm to evolve a population of biases
+for a decision tree induction algorithm. The fitness funct",1995-03-01,24
+1024,"Rerepresenting and Restructuring Domain Theories: A Constructive
+  Induction Approach","Theory revision integrates inductive learning and background knowledge by
+combining training examples with a coarse domain theory to produce a more
+accurate theory. There are two challenges that theor",1995-04-01,25
+1025,Using Pivot Consistency to Decompose and Solve Functional CSPs,"Many studies have been carried out in order to increase the search efficiency
+of constraint satisfaction problems; among them, some make use of structural
+properties of the constraint network; others ",1995-05-01,26
+1026,Adaptive Load Balancing: A Study in Multi-Agent Learning,"We study the process of multi-agent reinforcement learning in the context of
+load balancing in a distributed system, without use of either central
+coordination or explicit communication. We first defi",1995-05-01,27
+1027,Provably Bounded-Optimal Agents,"Since its inception, artificial intelligence has relied upon a theoretical
+foundation centered around perfect rationality as the desired property of
+intelligent systems. We argue, as others have done,",1995-05-01,28
+1028,Pac-Learning Recursive Logic Programs: Efficient Algorithms,"We present algorithms that learn certain classes of function-free recursive
+logic programs in polynomial time from equivalence queries. In particular, we
+show that a single k-ary recursive constant-de",1995-05-01,29
+1029,Pac-learning Recursive Logic Programs: Negative Results,"In a companion paper it was shown that the class of constant-depth
+determinate k-ary recursive clauses is efficiently learnable. In this paper we
+present negative results showing that any natural gene",1995-05-01,29
+1030,FLECS: Planning with a Flexible Commitment Strategy,"There has been evidence that least-commitment planners can efficiently handle
+planning problems that involve difficult goal interactions. This evidence has
+led to the common belief that delayed-commit",1995-06-01,30
+1031,"Induction of First-Order Decision Lists: Results on Learning the Past
+  Tense of English Verbs","This paper presents a method for inducing logic programs from examples that
+learns a new class of concepts called first-order decision lists, defined as
+ordered lists of clauses each ending in a cut. ",1995-06-01,31
+1032,"Building and Refining Abstract Planning Cases by Change of
+  Representation Language","ion is one of the most promising approaches to improve the performance of
+problem solvers. In several domains abstraction by dropping sentences of a
+domain description -- as used in most hierarchical ",1995-07-01,32
+1033,Using Qualitative Hypotheses to Identify Inaccurate Data,"Identifying inaccurate data has long been regarded as a significant and
+difficult problem in AI. In this paper, we present a new method for identifying
+inaccurate data on the basis of qualitative corr",1995-08-01,33
+1034,An Integrated Framework for Learning and Reasoning,"Learning and reasoning are both aspects of what is considered to be
+intelligence. Their studies within AI have been separated historically,
+learning being the topic of machine learning and neural netw",1995-08-01,34
+1035,Diffusion of Context and Credit Information in Markovian Models,"This paper studies the problem of ergodicity of transition probability
+matrices in Markovian models, such as hidden Markov models (HMMs), and how it
+makes very difficult the task of learning to repres",1995-10-01,35
+1036,Improving Connectionist Energy Minimization,"Symmetric networks designed for energy minimization such as Boltzman machines
+and Hopfield nets are frequently investigated for use in optimization,
+constraint satisfaction and approximation of NP-har",1995-10-01,36
+1037,"Learning Membership Functions in a Function-Based Object Recognition
+  System","Functionality-based recognition systems recognize objects at the category
+level by reasoning about how well the objects support the expected function.
+Such systems naturally associate a ``measure of g",1995-10-01,37
+1038,Flexibly Instructable Agents,"This paper presents an approach to learning from situated, interactive
+tutorial instruction within an ongoing agent. Tutorial instruction is a
+flexible (and thus powerful) paradigm for teaching tasks ",1995-11-01,38
+1039,OPUS: An Efficient Admissible Algorithm for Unordered Search,"OPUS is a branch and bound search algorithm that enables efficient admissible
+search through spaces for which the order of search operator application is not
+significant. The algorithm's search effici",1995-12-01,39
+1040,"Vision-Based Road Detection in Automotive Systems: A Real-Time
+  Expectation-Driven Approach","The main aim of this work is the development of a vision-based road detection
+system fast enough to cope with the difficult real-time constraints imposed by
+moving vehicle applications. The hardware p",1995-12-01,40
+1041,Generalization of Clauses under Implication,"In the area of inductive learning, generalization is a main operation, and
+the usual definition of induction is based on logical implication. Recently
+there has been a rising interest in clausal repre",1995-12-01,41
+1042,Decision-Theoretic Foundations for Causal Reasoning,"We present a definition of cause and effect in terms of decision-theoretic
+primitives and thereby provide a principled foundation for causal reasoning.
+Our definition departs from the traditional view",1995-12-01,42
+1043,Translating between Horn Representations and their Characteristic Models,"Characteristic models are an alternative, model based, representation for
+Horn expressions. It has been shown that these two representations are
+incomparable and each has its advantages over the other",1995-12-01,43
+1044,Statistical Feature Combination for the Evaluation of Game Positions,"This article describes an application of three well-known statistical methods
+in the field of game-tree search: using a large number of classified Othello
+positions, feature weights for evaluation fun",1995-12-01,44
+1045,Rule-based Machine Learning Methods for Functional Prediction,"We describe a machine learning method for predicting the value of a
+real-valued function, given the values of multiple input variables. The method
+induces solutions from samples in the form of ordered",1995-12-01,45
+1046,"The Design and Experimental Analysis of Algorithms for Temporal
+  Reasoning","Many applications -- from planning and scheduling to problems in molecular
+biology -- rely heavily on a temporal reasoning component. In this paper, we
+discuss the design and empirical analysis of alg",1996-01-01,46
+1047,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences","The paper describes an extension of well-founded semantics for logic programs
+with two types of negation. In this extension information about preferences
+between rules can be expressed in the logical ",1996-02-01,47
+1048,Logarithmic-Time Updates and Queries in Probabilistic Networks,"Traditional databases commonly support efficient query and update procedures
+that operate in time which is sublinear in the size of the database. Our goal
+in this paper is to take a first step toward ",1996-02-01,48
+1049,Quantum Computing and Phase Transitions in Combinatorial Search,"We introduce an algorithm for combinatorial search on quantum computers that
+is capable of significantly concentrating amplitude into solutions for some NP
+search problems, on average. This is done by",1996-03-01,49

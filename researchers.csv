@@ -1,0 +1,52 @@
+ResearcherID,Name,Email,Affiliation,Role
+1,M. L. Ginsberg,email1@univ.edu,CS Dept,Professor
+2,M. P. Wellman,email2@univ.edu,CS Dept,Professor
+3,I. P. Gent,email3@univ.edu,CS Dept,Professor
+4,F. Bergadano,email4@univ.edu,CS Dept,Professor
+5,J. C. Schlimmer,email5@univ.edu,CS Dept,Professor
+6,M. Buchheit,email6@univ.edu,CS Dept,Professor
+7,N. Nilsson,email7@univ.edu,CS Dept,Professor
+8,C. X. Ling,email8@univ.edu,CS Dept,Professor
+9,D. J. Cook,email9@univ.edu,CS Dept,Professor
+10,M. Koppel,email10@univ.edu,CS Dept,Professor
+11,P. M. Murphy,email11@univ.edu,CS Dept,Professor
+12,A. Borgida,email12@univ.edu,CS Dept,Professor
+13,R. Sebastiani,email13@univ.edu,CS Dept,Professor
+14,A. J. Grove,email14@univ.edu,CS Dept,Professor
+15,T. Kitani,email15@univ.edu,CS Dept,Professor
+16,S. K. Murthy,email16@univ.edu,CS Dept,Professor
+17,S. Safra,email17@univ.edu,CS Dept,Professor
+18,S. Soderland,email18@univ.edu,CS Dept,Professor
+19,W. L. Buntine,email19@univ.edu,CS Dept,Professor
+20,S. Minton,email20@univ.edu,CS Dept,Professor
+21,T. G. Dietterich,email21@univ.edu,CS Dept,Professor
+22,S. Hanks,email22@univ.edu,CS Dept,Professor
+23,P. Cichosz,email23@univ.edu,CS Dept,Professor
+24,P. D. Turney,email24@univ.edu,CS Dept,Professor
+25,S. K. Donoho,email25@univ.edu,CS Dept,Professor
+26,P. David,email26@univ.edu,CS Dept,Professor
+27,A. Schaerf,email27@univ.edu,CS Dept,Professor
+28,S. J. Russell,email28@univ.edu,CS Dept,Professor
+29,W. W. Cohen,email29@univ.edu,CS Dept,Professor
+30,M. Veloso,email30@univ.edu,CS Dept,Professor
+31,R. J. Mooney,email31@univ.edu,CS Dept,Professor
+32,R. Bergmann,email32@univ.edu,CS Dept,Professor
+33,Q. Zhao,email33@univ.edu,CS Dept,Professor
+34,C. G. Giraud-Carrier,email34@univ.edu,CS Dept,Professor
+35,Y. Bengio,email35@univ.edu,CS Dept,Professor
+36,G. Pinkas,email36@univ.edu,CS Dept,Professor
+37,K. Woods,email37@univ.edu,CS Dept,Professor
+38,S. B. Huffman,email38@univ.edu,CS Dept,Professor
+39,G. I. Webb,email39@univ.edu,CS Dept,Professor
+40,A. Broggi,email40@univ.edu,CS Dept,Professor
+41,P. Idestam-Almquist,email41@univ.edu,CS Dept,Professor
+42,D. Heckerman,email42@univ.edu,CS Dept,Professor
+43,R. Khardon,email43@univ.edu,CS Dept,Professor
+44,M. Buro,email44@univ.edu,CS Dept,Professor
+45,S. M. Weiss,email45@univ.edu,CS Dept,Professor
+46,P. vanBeek,email46@univ.edu,CS Dept,Professor
+47,G. Brewka,email47@univ.edu,CS Dept,Professor
+48,A. L. Delcher,email48@univ.edu,CS Dept,Professor
+49,T. Hogg,email49@univ.edu,CS Dept,Professor
+50,Samplestud1,emailsamp1@univ.edu,CS Dept,Student
+51,Samplestud2,emailsamp2@univ.edu,CS Dept,Student
